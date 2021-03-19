@@ -1,0 +1,42 @@
+Seamolec Online Test			
+							
+Akun Admin						
+Email : seamolec@gmail.com					
+Passw : seamolec				
+							
+Akun Pembimbing	
+1. Muhammad Muslim Rifa’i (Basis Data)			
+         Email : rifai@gmail.com			
+         Passw : 20200001
+2. Pansera Oktasedu Kanaidi(Pemrograman Web & Perangkat Bergerak)				
+         Email : okta@gmail.com					
+         Passw : 20200002
+3. Aline Almandha(Bahasa Inggris)				
+         Email : almandha@gmail.com					
+         Passw : 20200003
+4. Betuah Anugerah(Administrasi Sistem Jaringan)				
+         Email : anugerah@gmail.com					
+         Passw : 20200004
+5. Handi Pradana(Sistem Komputer)				
+         Email : pradana@gmail.com					
+         Passw : 20200005
+6. Fazhar Restu (Teknologi Jaringan Berbasis Luas (WAN)	
+         Email : restu@gmail.com					
+         Passw : 20200006					
+							
+Akun Peserta						
+1. Dos Chongly					
+         Email : doschongly@gmail.com					
+         Passw : 2017330051					
+2. Suon Veasnarithisak					
+         Email : rithisak@gmail.com					
+         Passw : 2017330052
+3. Leapkheng Chantitrithyboth					
+         Email : rithyboth@gmail.com					
+         Passw : 2017330053
+1. Doni Dwi Wahyudi				
+         Email : donidewi@gmail.com					
+         Passw : 2017330054
+
+
+
